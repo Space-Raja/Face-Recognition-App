@@ -1,0 +1,41 @@
+#imageRecognitioninitial{
+    font-size: 40px;
+    width:60%;
+    color:chartreuse;
+    
+}
+
+#imageRecognitioninitial:hover{
+    font-size: 30px;
+    width:60%;
+    color:rgb(0, 238, 255);
+    background-color: crimson;
+}
+
+#css{
+    background-color: mediumturquoise;
+}
+
+#model{
+    color:rgb(0, 102, 255);
+    font-family: cursive;
+}
+
+#person_name{
+    color:rgb(89, 255, 0);
+    background-color: darkblue;
+}
+
+#person_accuracy{
+    color:rgb(0, 255, 234);   
+    background-color: darkmagenta;
+}
+
+#camera{
+    border-style: inset;
+    border-radius: 25px;
+    border-color: darkorange;
+    border-width: 5px;
+    height:200px;
+    width:350px;
+}
